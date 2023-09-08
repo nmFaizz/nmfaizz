@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Hello - World! (LUMII)</title>
+    <!-- CDN typed -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&display=swap" rel="stylesheet">
+    <!-- feather icons -->
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+    <!-- AOS -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+</head>
+<body>
+    <!-- jumbotron -->
+    <header id="nav">
+        <h2><span style="color: #ffd166;">NM</span>FAIZZ.</h2>
+        <div class="list-nav">
+            <a href="#about-href" onclick="navOnclick()">About</a>
+            <a href="#projects-href" onclick="navOnclick()">Projects</a>
+            <a href="#contact" onclick="navOnclick()">Contact</a>
+        </div>
+
+        
+        <div class="menu-toggle">
+            <input type="checkbox" id="cb" onclick="menuToggle()"/>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </header>
+
+    <section class="sect1">
+        <div class="container">
+            <div class="img-jumb">
+                <div class="jumbotron">
+                    <div class="textheader1">
+                        <h1 class="header">Hello, im Faiz.</h1>
+                        <h3 class="header-bot">An Informatics Engineering Student.</h3>
+                        <div class="line"></div>
+                    </div>
+                </div>
+            </div>            
+                
+         <!-- jumbotron end -->
+        
+         <!-- ABOUT -->
+            
+            <section class="about-container" id="about-href">
+                <div class="judul-abt">
+                    <h2 style="text-align: center; color: white; font-size: 30px;">ABOUT ME</h2>
+                    <div class="head-line"></div>
+
+                </div>
+
+                <div class="dis-about">
+                    <div class="isi">
+                        <div class="about-img" data-aos="fade-right" data-aos-duration="1500">
+                            <img src="pic/paizzm.JPG" alt="guweh">
+                        </div>
+
+                        <div class="about-text" data-aos="fade-left" data-aos-duration="1500">
+                            <p class="abt-header">I'm a <span class="typed-abt"></span></p>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus a ea eaque fugiat sequi illo. Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+                            <span class="icon-socmed" style="display: flex; align-items: center;">
+                                <button type="button" class="btn-about">More</button>
+                                <a href="#"><i data-feather="github"></i></a>
+                                <a href="#"><i data-feather="instagram"></i></a>
+                                <a href="#"><i data-feather="facebook"></i></a>
+                                
+                            </span>
+
+                        </div>
+                        
+                    </div>
+                </div>
+            </section>
+
+            <section class="skills-landing">
+                <div class="header-skills">
+                    <h1 style="color: #f1f3f7;">SKILL-SET</h1>
+                    <div class="head-line"></div>
+                </div>
+
+                <div class="skills-land">
+                    <div class="skills-cards card1" data-aos="fade-right" data-aos-duration="1500">
+                        <i data-feather="camera" style="width: 4.2rem; height: 4.2rem;"></i>
+                        <h2>Photography</h2>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime autem, eius molestiae minus, quo distinctio.</p>
+                    </div>
+
+                    <div class="skills-cards card2" data-aos="fade-up" data-aos-duration="1500">
+                        <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 22.719 26" viewBox="0 0 22.719 26"><path d="M11.359,0H0l2.02,23.476L11.359,26l9.34-2.524L22.719,0H11.359z M19.045,22.093l-7.685,2.077l-7.685-2.077L1.926,1.767h18.867L19.045,22.093z" style="fill: #ffd166;"/><polygon points="14.515 17.165 11.359 17.922 8.204 17.165 7.952 14.893 5.049 14.893 5.427 19.437 11.359 21.078 17.291 19.437 17.922 10.602 7.573 10.602 7.321 7.825 18.301 7.825 18.554 4.796 4.165 4.796 4.922 13.505 14.767 13.505" style="fill: #ffd166;"/></svg>
+                        <h2>HTML</h2>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum voluptate facilis magnam tempore in eveniet est.</p>
+                    </div>
+
+                    <div class="skills-cards card2" data-aos="fade-left" data-aos-duration="1500">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.719 26"><path d="M11.359 0H0l2.02 23.476L11.359 26l9.34-2.524L22.719 0h-11.36zm7.686 22.093L11.36 24.17l-7.685-2.077L1.926 1.767h18.867l-1.748 20.326z" style="fill: #ffd166;"/><path d="m11.601 20.951 6.102-1.767.611-8.834h-6.205l6.366-2.761.205-2.919H3.913l.244 2.65h7.161l-6.917 2.903.244 2.903h10.343l-.214 3.787-3.173 1.009-3.783-.631-.122-2.272H4.889l.366 4.292z" style="fill: #ffd166;"/></svg>
+                        <h2>CSS</h2>
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam, architecto? Tempora numquam necessitatibus, ipsam suscipit, id.</p>
+                    </div>
+
+                    <div class="skills-cards card3" data-aos="fade-up" data-aos-duration="1500">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path style="fill:#ffd166;" d="M23.5 24H.5a.5.5 0 0 1-.5-.5V.5A.5.5 0 0 1 .5 0h23a.5.5 0 0 1 .5.5v23a.5.5 0 0 1-.5.5zM1 23h22V1H1v22zm8.787-.772c-.823 0-1.585-.197-2.229-.582-.605-.364-1.111-.939-1.462-1.665a.5.5 0 0 1 .188-.644l1.749-1.078a.504.504 0 0 1 .262-.074c.3 0 .432.227.511.363.237.397.369.566.624.694.005-.004.14.034.308.033.193 0 .423-.048.524-.259.103-.218.094-1.065.088-1.684l-.005-.698.009-5.563a.5.5 0 0 1 .5-.5h2.154a.5.5 0 0 1 .498.536v2c.003 1.317.005 2.63-.002 3.942l.006.516c.017 1.055.033 2.051-.448 2.928-.366.747-1.092 1.32-2.036 1.592a5.6 5.6 0 0 1-1.239.143zm-2.571-2.29c.237.364.528.654.855.851.724.433 1.711.554 2.707.329.444-.129 1.075-.43 1.396-1.084.364-.666.351-1.493.335-2.452l-.006-.533c.008-1.314.005-2.625.002-3.939l-.002-1.538h-1.152l-.008 5.063.005.688c.012 1.167.008 1.792-.205 2.161-.379.794-1.324.925-2.083.687a2.205 2.205 0 0 1-.924-.8l-.92.567zm1.078-1.2-.388.254.388-.254zm.023-.015.007-.005-.007.005zm9.737 3.404c-1.346 0-2.688-.468-3.493-1.281l-.212-.241c-.254-.286-.474-.533-.667-.974a.5.5 0 0 1 .209-.634l1.754-1.007a.5.5 0 0 1 .667.158c.447.677.78.936 1.373 1.067.505.061.996-.037 1.198-.256.038-.042.153-.166.091-.49-.092-.293-.745-.568-1.375-.833-.612-.257-1.305-.549-1.903-.996-.74-.498-1.25-1.367-1.377-2.369-.126-.995.149-1.959.757-2.647.416-.514 1.111-.927 1.895-1.118l.731-.095c1.429-.033 2.418.333 3.151 1.154.2.194.358.419.61.811a.496.496 0 0 1-.157.694c-.687.428-.687.428-1.673 1.072a.5.5 0 0 1-.726-.206c-.143-.304-.367-.517-.63-.598-.22-.065-.483-.047-.65.05a.324.324 0 0 0-.168.218c-.022.079-.041.139.04.429.083.178.556.381 1.012.578.147.063.295.127.44.195 1.959.794 2.941 1.762 3.159 3.127a.49.49 0 0 1-.006.191c.086.741-.037 1.281-.125 1.552-.331 1.132-1.253 1.946-2.594 2.286a5.355 5.355 0 0 1-1.331.163zm-3.233-2.511c.077.103.166.202.274.325l.2.228c.804.809 2.465 1.177 3.843.828.57-.144 1.572-.545 1.882-1.605.062-.192.179-.667.058-1.354a.49.49 0 0 1-.001-.162c-.165-.652-.671-1.397-2.527-2.15-.16-.074-.299-.134-.436-.193-.634-.273-1.291-.556-1.556-1.163-.121-.418-.162-.7-.065-1.02a1.3 1.3 0 0 1 .632-.826c.408-.238.946-.291 1.442-.142.369.114.691.337.942.646.402-.262.576-.375.827-.532a1.968 1.968 0 0 0-.208-.241c-.561-.626-1.254-.876-2.354-.847l-.624.081c-.511.128-1.022.424-1.313.782-.431.488-.618 1.166-.528 1.875.09.706.451 1.334.964 1.681.52.387 1.126.643 1.712.889.901.379 1.753.738 1.958 1.51l.006.027c.142.694-.103 1.137-.333 1.386-.432.469-1.201.674-2.102.562-.838-.184-1.342-.576-1.765-1.117l-.928.532z"/></svg>
+                        <h2>JavaScript</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, impedit hic, asperiores blanditiis.</p>
+                    </div>
+                    
+                    <div class="skills-cards card4" data-aos="fade-up" data-aos-duration="1500">
+                        <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 50 50" width="100px" height="100px"><path style="fill: #ffd166;" d="M 25 2 C 24.285156 2 23.570313 2.179688 22.933594 2.539063 L 6.089844 12.003906 C 4.800781 12.726563 4 14.082031 4 15.535156 L 4 34.464844 C 4 35.917969 4.800781 37.273438 6.089844 37.996094 L 22.933594 47.460938 C 23.570313 47.820313 24.285156 48 25 48 C 25.714844 48 26.429688 47.820313 27.066406 47.460938 L 43.910156 38 C 45.199219 37.273438 46 35.917969 46 34.464844 L 46 15.535156 C 46 14.082031 45.199219 12.726563 43.910156 12.003906 L 27.066406 2.539063 C 26.429688 2.179688 25.714844 2 25 2 Z M 25 13 C 28.78125 13 32.277344 14.753906 34.542969 17.738281 L 30.160156 20.277344 C 28.84375 18.835938 26.972656 18 25 18 C 21.140625 18 18 21.140625 18 25 C 18 28.859375 21.140625 32 25 32 C 26.972656 32 28.84375 31.164063 30.160156 29.722656 L 34.542969 32.261719 C 32.277344 35.246094 28.78125 37 25 37 C 18.382813 37 13 31.617188 13 25 C 13 18.382813 18.382813 13 25 13 Z M 35 20 L 37 20 L 37 22 L 39 22 L 39 20 L 41 20 L 41 22 L 43 22 L 43 24 L 41 24 L 41 26 L 43 26 L 43 28 L 41 28 L 41 30 L 39 30 L 39 28 L 37 28 L 37 30 L 35 30 L 35 28 L 33 28 L 33 26 L 35 26 L 35 24 L 33 24 L 33 22 L 35 22 Z M 37 24 L 37 26 L 39 26 L 39 24 Z"/></svg>
+                        <h2>C#</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, exercitationem voluptatem quas nobis.</p>
+                    </div>
+                    
+                    <div class="skills-cards card5" data-aos="fade-up" data-aos-duration="1500">
+                        <svg width="2500" height="2490" viewBox="0 0 256 255" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet"><defs><linearGradient x1="12.959%" y1="12.039%" x2="79.639%" y2="78.201%" id="a"><stop stop-color="#387EB8" offset="0%"/><stop stop-color="#366994" offset="100%"/></linearGradient><linearGradient x1="19.128%" y1="20.579%" x2="90.742%" y2="88.429%" id="b"><stop stop-color="#FFE052" offset="0%"/><stop stop-color="#FFC331" offset="100%"/></linearGradient></defs><path style="fill: #ffd166;" d="M126.916.072c-64.832 0-60.784 28.115-60.784 28.115l.072 29.128h61.868v8.745H41.631S.145 61.355.145 126.77c0 65.417 36.21 63.097 36.21 63.097h21.61v-30.356s-1.165-36.21 35.632-36.21h61.362s34.475.557 34.475-33.319V33.97S194.67.072 126.916.072zM92.802 19.66a11.12 11.12 0 0 1 11.13 11.13 11.12 11.12 0 0 1-11.13 11.13 11.12 11.12 0 0 1-11.13-11.13 11.12 11.12 0 0 1 11.13-11.13z" fill="url(#a)"/><path style="fill: #ffd166;" d="M128.757 254.126c64.832 0 60.784-28.115 60.784-28.115l-.072-29.127H127.6v-8.745h86.441s41.486 4.705 41.486-60.712c0-65.416-36.21-63.096-36.21-63.096h-21.61v30.355s1.165 36.21-35.632 36.21h-61.362s-34.475-.557-34.475 33.32v56.013s-5.235 33.897 62.518 33.897zm34.114-19.586a11.12 11.12 0 0 1-11.13-11.13 11.12 11.12 0 0 1 11.13-11.131 11.12 11.12 0 0 1 11.13 11.13 11.12 11.12 0 0 1-11.13 11.13z" fill="url(#b)"/></svg>
+                        <h2>Python</h2>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- about end -->
+
+
+            <!-- projects -->
+            <section class="projects-land" id="projects-href">
+                <div class="header-photo">
+                    <h1 class="header-ph">MY WORK</h1>
+                    <div class="head-line"></div>
+                </div>
+                
+                <div class="code-projects">
+                    <div class="code-card">
+                        <div class="code-scale">
+                            <div class="img-code">
+                                <img src="pic/taifhighway.jpg" alt="">
+                            </div>
+                        </div>
+
+                        <div class="text-code">
+                            <h2>Coming Soon</h2>
+                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem pariatur laudantium esse voluptas maiores omnis?</p>
+                            <div>
+                                <a href="#">Visit</a>
+                                <i data-feather="globe"></i>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="code-card code-center">
+                        <div class="code-scale">
+                            <div class="img-code">
+                                <img src="pic/juanda.jpg" alt="">
+                            </div>
+                        </div>
+
+                        <div class="text-code">
+                            <h2>Coming Soon</h2>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis possimus veritatis non vitae neque dolorum.</p>
+                            <div>
+                                <a href="#">Visit</a>
+                                <i data-feather="globe"></i>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="code-card">
+                        <div class="code-scale">
+                            <div class="img-code">
+                                <img src="pic/car-taif.jpg" alt="">
+                            </div>
+                        </div>
+
+                        <div class="text-code">
+                            <h2>Coming Soon</h2>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi architecto fugiat et adipisci fuga officiis.</p>
+                            <div>
+                                <a href="#">Visit</a>
+                                <i data-feather="globe"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                            
+            </section>
+         <!-- projects end  -->
+         
+         <!-- contact  -->
+            <div class="header-contact" style="text-align: center; color: #f1f3f7;">
+                <h1>Hit me up !</h1>
+                <a href="#"><i data-feather="instagram"></i></a>
+                <a href="#"><i data-feather="github"></i></a>
+                <a href="#"><i data-feather="linkedin"></i></a>
+            </div>
+
+            <section class="contact" style="color: white;" id="contact">
+                <div class="contact-ele">
+                    <div class="contact-cube">
+                        <form action="" id="form-incontact">
+                            <div class="input-form">
+                                <p>Name </p>
+                                <p><i data-feather="user"></i></p>
+                                <input type="text">
+                            </div>
+    
+                            <div class="input-form">
+                                <p>Phone </p>
+                                <p><i data-feather="phone"></i></p>
+                                <input type="number" min="0">
+                            </div>
+    
+                            <div class="input-form">
+                                <p>Email</p>
+                                <p><i data-feather="mail"></i></p>
+                                <input type="email">
+                            </div>
+
+
+                            <div class="input-form">
+    
+                            <input type="button" value="Send" id="btn-input">
+                        </form>
+                    </div>
+                </div>
+                
+            </section>
+            
+            <footer>
+                <p>Made by love | LUMII. Copyright 2023</p>
+            </footer>
+        </div>
+    </section>
+
+    
+
+    <script>
+        feather.replace();
+        AOS.init({
+            once: true, 
+        });
+
+    </script>
+    <script src="index.js"></script>
+</body>
+</html>
+

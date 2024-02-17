@@ -9,7 +9,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Main Techstack :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg?short_path=e73e3cd" title="NextJS" alt="NextJS" width="40" height ="40" />&nbsp;

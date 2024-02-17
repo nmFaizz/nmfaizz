@@ -25,6 +25,7 @@
 </div>
 
 ---
+<hr />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmFaizz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=nmFaizz&color=green)

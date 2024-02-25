@@ -6,11 +6,11 @@
 <p><strong># Facts about me ?</strong></p>
 
 <ul>
-  <li>Love to read books especially fiction novels (Fav author: Keigo Higashino) :open_book:</li>
-  <li>Love to play games :video_game:</li>
-  <li>In love with noodles :fork_and_knife:</li>
-  <li>Moa Kikuchi Supremacy :revolving_hearts:</li>
-  <li>Arts addiction :art:</li>
+  <li>📖 Love to read books especially fiction novels (Fav author: Keigo Higashino)</li>
+  <li>🎮 Love to play games</li>
+  <li>🍴 In love with noodles</li>
+  <li>💞 Moa Kikuchi Supremacy</li>
+  <li>🎨 Arts addiction</li>
 </ul>
 
 ---

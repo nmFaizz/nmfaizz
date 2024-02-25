@@ -1,17 +1,22 @@
 
-- 💻 JUST AN ORDINARY PERSON WHO'S VERY ENTHUSIASTIC ABOUT TECH
 
-- :seedling: KEEP LEARNING NEW THINGS.
+# Hello there !! :wave:
+<p>My name is faiz, i am a sophomore of the software engineering student at <strong>Institut Teknologi Sepuluh Nopember (ITS)</strong></p>
+<p>Im doing website development, mostly front-end and visual design</p>
+<p><strong># Facts about me ?</strong></p>
 
-- 😣 I ATE FRIED NOODLES (BRUTALLY)
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Faiz-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/nur-muhammad-faiz/))
+<ul>
+  <li>Love to read books especially fiction novels (Fav author: Keigo Higashino) :open_book:</li>
+  <li>Love to play games :video_game:</li>
+  <li>In love with noodles :fork_and_knife:</li>
+  <li>Moa Kikuchi Supremacy :revolving_hearts:</li>
+  <li>Arts addiction :art:</li>
+</ul>
 
 ---
-
 ### :hammer_and_wrench: Main Techstack :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg?short_path=e73e3cd" title="NextJS" alt="NextJS" width="40" height ="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -27,9 +32,7 @@
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmFaizz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmFaizz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br/>
 ![](https://komarev.com/ghpvc/?username=nmFaizz&color=green)
-<!---
-nmFaizz/nmFaizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/nur-muhammad-faiz/)) -->

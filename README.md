@@ -16,7 +16,7 @@
 ---
 ### :hammer_and_wrench: Main Techstack :
 
-<div align="center">
+<div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="40" height="40" />

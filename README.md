@@ -1,4 +1,5 @@
 
+![fyrV](https://github.com/nmFaizz/nmfaizz/assets/142985362/f93b8e73-c84c-4361-b543-cfd68e3301f9)
 
 # Hello there !! :wave:
 <p>My name is faiz, i am a sophomore of the software engineering student at <strong>Institut Teknologi Sepuluh Nopember (ITS)</strong></p>

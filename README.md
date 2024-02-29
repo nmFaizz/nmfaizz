@@ -12,6 +12,9 @@
     <img src="https://img.shields.io/badge/-mfaiz582@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mfaiz582@gmail.com" alt="Gmail Badge">     
 </a>
 
+<br/>
+<br/> <br/>
+
 
 <p><strong># Facts about me ?</strong></p>
 
@@ -44,7 +47,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmFaizz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br/>
-![](https://komarev.com/ghpvc/?username=nmFaizz&color=green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmFaizz&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) <br/>
+![](https://komarev.com/ghpvc/?username=nmFaizz&color=blueviolet&style=for-the-badge)
 
 <!-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/nur-muhammad-faiz/)) -->

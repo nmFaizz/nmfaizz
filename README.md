@@ -32,7 +32,7 @@
 ---
 ### :hammer_and_wrench: Main Techstack :
 
-<div>
+<p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="40" height="40" />
@@ -43,11 +43,18 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40" />
-</div>
+</p>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmFaizz&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) <br/>
-![](https://komarev.com/ghpvc/?username=nmFaizz&color=blueviolet&style=for-the-badge)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmFaizz&layout=compact&theme=synthwave&hide_border=true" width=390 />
+</p>
+
+
+<p align="center">
+    <img src="https://lanyard.cnrad.dev/api/323112839558594561"  />
+</p>
+
 
 <!-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/nur-muhammad-faiz/)) -->

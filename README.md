@@ -27,7 +27,6 @@
   <li>🎨 Addiction to arts</li>
 </ul>
 
-<img src="https://github.com/nmFaizz/nmfaizz/assets/142985362/f93b8e73-c84c-4361-b543-cfd68e3301f9" width="100%" />
 
 ---
 ### :hammer_and_wrench: Main Techstack :
@@ -46,14 +45,6 @@
 </p>
 
 ---
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmFaizz&layout=compact&theme=synthwave&hide_border=true" width=390 />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nmFaizz&theme=synthwave&hide_border=true" />
-</p>
 
 <p align="center">
     <img src="https://lanyard.cnrad.dev/api/323112839558594561"  />

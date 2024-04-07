@@ -15,19 +15,6 @@
 <br/>
 <br/> <br/>
 
-
-<p><strong># Facts about me ?</strong></p>
-
-
-<ul>
-  <li>📖 Love to read books especially fiction novels (Fav author: Keigo Higashino)</li>
-  <li>🎮 Love to play games</li>
-  <li>🍴 In love with noodles</li>
-  <li>💞 Moa Kikuchi Supremacy</li>
-  <li>🎨 Addiction to arts</li>
-</ul>
-
-
 ---
 ### :hammer_and_wrench: Main Techstack :
 

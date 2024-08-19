@@ -3,7 +3,7 @@
 Im a student who spent my uni-life to learn and sharing about tech, A little bit go deeper on software engineering.
 React is one of my favorite stack, and still working to learn more about it's ecosystems with Typescript.
 
-I do some roles: `Design Graphic`, `Web Development`, `Writing`
+I do some roles: `Graphic Design`, `Web Development`, `Writer`
 
 If youre interested with tech topics, go check on my incoming website (on progress). I write about tech-related topics and other personal stuff, turning my thoughts into stories because I have no one to talk to.
 

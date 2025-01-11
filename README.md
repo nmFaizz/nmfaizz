@@ -1,7 +1,6 @@
 
 # Hello! :wave: im Faiz 
-Im a student who spent my uni-life to learn and sharing about tech, A little bit go deeper on software engineering.
-React is one of my favorite stack, and still working to learn more about it's ecosystems with Typescript.
+Im a student who spent my uni-life to learn and sharing about tech, go deep into software engineering. React is one of my favorite stack, and still working to learn more about it's ecosystems with Typescript.
 
 I do some roles: `Graphic Design`, `Web Development`, `Writer`
 

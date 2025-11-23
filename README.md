@@ -2,7 +2,7 @@
 # Hello! :wave: im Faiz 
 Im a student who spent my uni-life to learn and sharing about tech, go deep into software engineering. React is one of my favorite stack, and still working to learn more about it's ecosystems with Typescript.
 
-I do some roles: `Graphic Design`, `Web Development`, `Writer`
+I do some roles: `Web Development`, `Graphic Design`
 
 If youre interested with tech topics, go check on my [Website](https://nmfaizz.vercel.app/). I write about tech-related topics and other personal stuff, turning my thoughts into stories because I have no one to talk to.
 

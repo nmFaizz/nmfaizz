@@ -1,6 +1,6 @@
 
 # Hello! :wave: im Faiz 
-Im a student who spent my uni-life to learn and sharing about tech, go deep into software engineering. React is one of my favorite stack, and still working to learn more about it's ecosystems with Typescript.
+Hello, I’m Faiz. Final-year Software Engineering Student at ITS, Surabaya. Mostly working on Software Engineering and Designs. 
 
 I do some roles: `Web Development`, `Graphic Design`
 

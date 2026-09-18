@@ -1,6 +1,4 @@
-
-# Hello! :wave: im Faiz 
-Hello, I’m Faiz. Final-year Software Engineering Student at ITS, Surabaya. Mostly working on Software Engineering and Designs. 
+Hello :wave:, I’m Faiz. Final-year Software Engineering Student at ITS, Surabaya. Mostly working on Software Engineering and Designs. 
 
 I do some roles: `Web Development`, `Graphic Design`
 

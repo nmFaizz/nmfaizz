@@ -1,7 +1,4 @@
 Hello :wave:, I’m Faiz. Final-year Software Engineering Student at ITS, Surabaya. Mostly working on Software Engineering and Designs. 
-
-I do some roles: `Web Development`, `Graphic Design`
-
 <br />
 
 <a target="_blank" href="https://linkedin.com/in/nmfaizz">
